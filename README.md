@@ -197,6 +197,22 @@ resources/           icons, art, themes, i18n
 scripts/             static build + gen_cll_update.py
 ```
 
+## Contributing
+
+This repo is a fork of [MestreTM/CLL-Cod-Lan-Launcher](https://github.com/MestreTM/CLL-Cod-Lan-Launcher). Bug reports and pull requests belong upstream at https://github.com/MestreTM/CLL-Cod-Lan-Launcher. Issues are disabled on this fork.
+
+## Star history
+
+⭐ Thanks for the stars and launcher reports.
+
+<a href="https://www.star-history.com/?repos=DavidHiFi%2FCLL-Cod-Lan-Launcher&amp;type=date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=DavidHiFi/CLL-Cod-Lan-Launcher&amp;type=date&amp;theme=dark&amp;legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=DavidHiFi/CLL-Cod-Lan-Launcher&amp;type=date" />
+    <img alt="DavidHiFi/CLL-Cod-Lan-Launcher GitHub star history" src="https://api.star-history.com/chart?repos=DavidHiFi/CLL-Cod-Lan-Launcher&amp;type=date" />
+  </picture>
+</a>
+
 ## Credits
 
 - **MestreTM** — Cod Lan Launcher
